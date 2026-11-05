@@ -4,6 +4,9 @@
 [![CI](https://github.com/mosdef-hub/gmso/actions/workflows/CI.yaml/badge.svg)](https://github.com/mosdef-hub/gmso/actions/workflows/CI.yaml)
 [![codecov](https://codecov.io/gh/mosdef-hub/gmso/branch/master/graph/badge.svg?token=rqPGwmXDzu)](undefined)
 
+This is Myra copy of GMSO.
+
+
 `GMSO`is a flexible storage of chemical topology for molecular simulation.
 With a few lines of `GMSO` code, together with [`mBuild`](https://mbuild.mosdef.org) and [`foyer`](https://foyer.mosdef.org), users can rapidly prototype arbitrary parameterized chemical systems and generate data files for a wide variety of simulation engines.
 
