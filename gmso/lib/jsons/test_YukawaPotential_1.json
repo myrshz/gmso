@@ -1,0 +1,9 @@
+{
+	"name" : "YukawaPotential_1",
+	"expression" : "epsilon*(exp(-kappa*r)/r)",
+	"independent_variables" : "r",
+	"expected_parameters_dimensions" : {
+		"epsilon" : "energy*length",
+		"kappa" : "length**-1"
+	}
+}
